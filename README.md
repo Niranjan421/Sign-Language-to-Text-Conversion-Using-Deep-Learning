@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# Sign-Language To Text and Speech Conversion Using DeepLearning(SignSpeak AI)
+# Sign-Language To Text and Speech Conversion Using DeepLearning (SignSpeak AI)
 
 
 ## Explanatory Video for SatyaDrishti
